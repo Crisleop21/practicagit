@@ -1,5 +1,6 @@
 public class Main{
-	Public static void main (System(arg)){
+	public static void main(String[] args) {
 		
 	}
+	
 }
